@@ -227,6 +227,11 @@ label:hover{
   transition: all 0.3s ease-in-out;
 }
 
+.img-container:hover .course-popup {
+  opacity: 1;
+  visibility: visible;
+}
+
 .checkbox-group{
   text-align: center;
   padding:2% 10% 0% 10% ;
